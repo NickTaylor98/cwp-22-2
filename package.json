@@ -1,0 +1,22 @@
+{
+  "name": "cwp-22-2",
+  "version": "1.0.0",
+  "description": "The end of 22nd lab. work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickTaylor98/cwp-22-2.git"
+  },
+  "author": "NickTaylor98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickTaylor98/cwp-22-2/issues"
+  },
+  "homepage": "https://github.com/NickTaylor98/cwp-22-2#readme",
+  "dependencies": {
+    "@nicktaylor98/cwp-22-1": "^1.0.0"
+  }
+}
